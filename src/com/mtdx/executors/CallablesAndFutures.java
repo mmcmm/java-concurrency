@@ -1,4 +1,4 @@
-package org.paumard.executors;
+package com.mtdx.executors;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

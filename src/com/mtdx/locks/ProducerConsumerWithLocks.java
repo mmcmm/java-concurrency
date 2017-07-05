@@ -1,4 +1,4 @@
-package org.paumard.locks;
+package com.mtdx.locks;
 
 import java.util.ArrayList;
 import java.util.List;
